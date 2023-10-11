@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Gilberto",
+      "email": "correo@correo.com2",
+      "telefono": "435354353",
+      "empresa": "Codigos222",
+      "id": 1
+    },
+    {
+      "nombre": "Alberto",
+      "email": "correonuevo@correo.com",
+      "telefono": "12321312313",
+      "empresa": "Aprendizaje",
+      "id": 2
+    }
+  ]
+}
